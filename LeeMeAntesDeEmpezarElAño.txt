@@ -1,0 +1,23 @@
+Buenos dias chicos:
+
+Les comparto algunos Links necesarios para repasar las clases vistas en 4to Año
+
+GitHub - Minimos conocimientos basicos (@todo_code)
+https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW
+
+Python - Full course certification
+https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26
+
+
+Machine Learning - Full course certification with Windows Learn (Need a Outlook account to access)
+https://developers.google.com/machine-learning/crash-course/ml-intro
+https://www.cloudskillsboost.google/course_templates/156
+
+IA Introduction with Python
+https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/block-v1:HarvardX+CS50AI+1T2020+type@sequential+block@ec9b7abacf694bb9bed91130113a034b/block-v1:HarvardX+CS50AI+1T2020+type@vertical+block@719a5976db8748b1bf6cc624bcfa063e
+
+Full Certification Repository
+https://github.com/cloudcommunity/Free-Certifications
+
+Enjoy it!
+FH
