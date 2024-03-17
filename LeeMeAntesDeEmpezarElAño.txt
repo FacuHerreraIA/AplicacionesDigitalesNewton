@@ -9,6 +9,10 @@ Python - Full course certification
 https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@5c4566382df54814ba604df6369ca2fc/block-v1:HarvardX+CS50P+Python+type@vertical+block@a1450ed5620843fe9fd548156a385d26
 
 Python Excercises
+Soft Version
+https://www.bigbaydata.com/ejercicios-de-programacion-en-python/#:~:text=Ejercicios%20de%20Programaci%C3%B3n%20Python%20para%20principiantes%201%20Variables,para%20practicar%20...%207%20Funciones%20en%20Python%20
+
+Hard Version
 https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md
 
 Machine Learning - Full course certification with Windows Learn (Need a Outlook account to access)
